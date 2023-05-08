@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmet</h1>
 <h3 align="center">I am Interested Software.</h3>
+<h3 align="center">I switched to this account after my main account (Agota) was stolen and the repos were deleted (I had 32 repos).</h3>
 
 - 🌱 I’m currently learning **C#,Unity,Qt,Advanced C++,Blender**
 
