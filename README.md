@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmet</h1>
 <h3 align="center">I am Interested Software.</h3>
-<h3 align="center">I switched to this account after my main account (Agota) was stolen and the repos were deleted (I had 32 repos).</h3>
 
 - 🌱 I’m currently learning **C#,Unity,Qt,Advanced C++,Blender**
 
@@ -8,9 +7,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ahmet-rasim-beyhan-251889237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmet rasim beyhan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ahmet rasim beyhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmet rasim beyhan" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20874205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20874205" height="30" width="40" /></a>
-<a href="https://youtube.com/@agota1973" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code with agota" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/code with agota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code with agota" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/agota" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="agota" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/agota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="agota" height="30" width="40" /></a>
 </p>
 
@@ -20,5 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmetrasb&show_icons=true&locale=en&layout=compact" alt="ahmetrasb" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmetrasb&show_icons=true&locale=en" alt="ahmetrasb" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetrasb&" alt="ahmetrasb" /></p>
