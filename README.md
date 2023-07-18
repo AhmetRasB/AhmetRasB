@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning **C#,Unity,Qt,Advanced C++,Blender**
 
 - 📫 How to reach me **ahmetrasimbayhan@gmail.com**
+- It was stolen due to the use of disposable mail in my account and the repos were deleted. Normally I had 32 repos and I will try to keep the repos up to date from 2023. I still keep my private repos private and I'm not one to share a lot of open source code. Stay tuned if you're interested in more of my open source code.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
