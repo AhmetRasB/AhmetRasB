@@ -1,5 +1,3 @@
-<h2 align="left">Hi 👋! My name is Ahmet and I'm a General Purpose Developer, from Turkey</h2>
-
 ###
 
 <img align="right" height="150" src="https://www.mitsubishi-motors.com/jp/brand/motorsports/dakar/images/img-contents_1984.jpg"  />
