@@ -22,7 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
-
+<br>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/ahmetrasimbeyhan" target="_blank">
