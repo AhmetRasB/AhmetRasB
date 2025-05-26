@@ -22,13 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
-###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=ahmetrasimbayhan" alt="Layout with last medium posts"  />
-</div>
-
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/ahmetrasimbeyhan" target="_blank">
